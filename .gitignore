@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+
+# Build artifacts
+dist/
+build/
+
+# Package tarball (generated during npm pack/publish)
+*.tgz
+
+# IDE and editor specific files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+logs/
+
+# Optional npm cache
+.npm/
+.npm-cache/
